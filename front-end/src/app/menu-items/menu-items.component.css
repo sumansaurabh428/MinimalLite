@@ -1,0 +1,41 @@
+.main-sidebar {
+    min-height: 100%;
+    width: 230px;
+    background-color: #242a33;
+    position: absolute;
+}
+
+.sidebar-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.user-profile img {
+    height: 30px;
+    border-radius: 100%;
+    margin: 0 10px 0 0;
+}
+.sidebar-item .fa-angle-right {
+    margin-top: 5px;
+}
+
+.sidebar-item div {
+    padding: 15px 5px 15px 15px;
+}
+.sidebar-item {
+    color: #fff;
+    padding: 5px 10px;
+}
+.sidebar-item .center-align {
+    margin-right: 10px;
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+.section-header {
+    color: #687384;
+    padding: 20px 25px 10px 15px;
+    font-size: 12px;
+    font-weight: 500;
+}

@@ -1,0 +1,55 @@
+.container-shift-right {
+    position: relative;
+    left: 230px;
+    top: -350px;
+}
+
+.header{
+    background-color: #fff;
+    padding: 15px 20px 13px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 50%);
+}
+
+.header h1 small {
+    font-size: 15px;
+    padding-left: 4px;
+    font-weight: 300;
+}
+
+.sub-header {
+    background: #d2d6de;
+    padding: 7px 5px;
+    border-radius: 2px;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+li {
+    list-style: none;
+    float: left;
+}
+
+.content {
+    background: #f4f6f9;
+    min-height: 250px;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.progress {
+    height: 4px;
+}
+
+.box-body {
+    padding: 10px;
+}
+
+.box {
+    background-color: #fff;
+}

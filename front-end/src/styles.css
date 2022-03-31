@@ -1,0 +1,14 @@
+.skin-green .main-header .navbar {
+  background-color: #00acc1;
+}
+.skin-green .main-header .logo {
+  background-color: #00acc1;
+  color: #ffffff;
+  border-bottom: 0 solid transparent;
+}
+.skin-green .main-header .navbar .nav > li > a {
+  color: #ffffff;
+}
+.skin-green .main-header .navbar i {
+  color: #ffffff;
+}
